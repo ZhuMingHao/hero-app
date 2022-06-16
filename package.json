@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "deploy": "ng deploy --no-silent --base-href=/firstapp/ --name='79957333@qq.com' --email='908908myzone'",
+    "deploy": "ng deploy --no-silent --base-href=/firstapp/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
